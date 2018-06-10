@@ -11,3 +11,7 @@
 127.0.0.1 www.instagram.com
 127.0.0.1 instagram.com
 127.0.0.1 s.weibo.com
+127.0.0.1 tieba.baidu.com
+127.0.0.1 tieba.com
+127.0.0.1 m.tieba.com
+127.0.0.1 freeweibo.com
