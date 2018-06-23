@@ -12,9 +12,6 @@
 127.0.0.1 sspai.com
 127.0.0.1 bitauto.com
 127.0.0.1 yiche.com
-127.0.0.1 baidu.com
-127.0.0.1 www.baidu.com
-127.0.0.1 tieba.baidu.com
 127.0.0.1 auto.sina.com.cn
 127.0.0.1 www.fblife.com
 127.0.0.1 bbs.fblife.com
