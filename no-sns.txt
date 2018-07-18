@@ -16,3 +16,4 @@
 127.0.0.1 m.tieba.com
 127.0.0.1 freeweibo.com
 127.0.0.1 truckersmp.com
+127.0.0.1 forum.truckersmp.com
