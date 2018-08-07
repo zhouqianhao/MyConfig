@@ -5,7 +5,9 @@
 127.0.0.1 www.autohome.com.cn
 127.0.0.1 club.autohome.com.cn
 127.0.0.1 www.taobao.com
+127.0.0.1 taobao.com
 127.0.0.1 www.jd.com
+127.0.0.1 jd.com
 127.0.0.1 z.cn
 127.0.0.1 www.amazon.cn
 127.0.0.1 amazon.cn
@@ -22,3 +24,4 @@
 127.0.0.1 youtu.be
 127.0.0.1 www.guancha.cn
 127.0.0.1 www.quora.com
+127.0.0.1 www.bilibili.com
