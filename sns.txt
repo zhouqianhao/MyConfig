@@ -1,4 +1,4 @@
-# 用hosts屏蔽SNS网站
+# 屏蔽SNS网站
 127.0.0.1 weibo.com
 127.0.0.1 weibo.cn
 127.0.0.1 www.weibo.com
