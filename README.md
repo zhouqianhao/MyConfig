@@ -1,1 +1,1 @@
-# SwitchHosts-Config
+# hosts
