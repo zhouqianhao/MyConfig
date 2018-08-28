@@ -1,4 +1,4 @@
-# 考试复习时屏蔽
+# 屏蔽更多SNS网站
 127.0.0.1 zhihu.com
 127.0.0.1 www.zhihu.com
 127.0.0.1 zhuanlan.zhihu.com
