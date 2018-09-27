@@ -28,5 +28,5 @@
 # Twitter
 127.0.0.1 twitter.com
 # TruckersMP
-127.0.0.1 truckersmp.com
-127.0.0.1 forum.truckersmp.com
+# 127.0.0.1 truckersmp.com
+# 127.0.0.1 forum.truckersmp.com
