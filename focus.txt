@@ -36,11 +36,6 @@
 127.0.0.1 truckersmp.com
 127.0.0.1 forum.truckersmp.com
 
-# 知乎
-127.0.0.1 zhihu.com
-127.0.0.1 www.zhihu.com
-127.0.0.1 zhuanlan.zhihu.com
-
 # 汽车之家
 127.0.0.1 www.autohome.com.cn
 127.0.0.1 club.autohome.com.cn
