@@ -1,4 +1,5 @@
-# Adobe
+# adobe.txt 配合Adobe系列软件破解
+# -----------------------------
 127.0.0.1 activate.adobe.com
 127.0.0.1 practivate.adobe.com
 127.0.0.1 lmlicenses.wip4.adobe.com
@@ -141,3 +142,4 @@
 127.0.0.1 wwis-dubc1-vip99.adobe.com
 127.0.0.1 crl.versign.net
 127.0.0.1 ood.opsource.net
+# -------------End-------------
