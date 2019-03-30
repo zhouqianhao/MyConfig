@@ -1,5 +1,7 @@
-# XMLSpy
+# xmlspy.txt 配合XMLSpy软件破解
+# -----------------------------
 127.0.0.1 altova.com
 127.0.0.1 www.altova.com
 127.0.0.1 link.altova.com
 127.0.0.1 link.altova.com
+# -------------End-------------
